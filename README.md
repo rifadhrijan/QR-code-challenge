@@ -4,4 +4,6 @@
 
 ![QR code](images/image-qr-code.png)
 
-Github pages
+### Github pages (URL)
+
+https://rifadhrijan.github.io/QR-code-challenge/
